@@ -1,5 +1,5 @@
 # Crunchbase API 
 
-![](./CB.jpeg)
+![](./CB.png)
 
 ## Cool Package to easily use the CB API for data gathering 
