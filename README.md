@@ -1,2 +1,2 @@
-# CrunchBase_API
-Cool package for using the crunchbase API
+# CrunchBase API
+Cool package for using the crunchbase API 
